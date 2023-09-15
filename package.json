@@ -4,22 +4,16 @@
   },
   "name": "placement-cell",
   "version": "1.0.0",
-  "description": "This is Placement cell application for career camp team",
+  "description": "This is Placement cell application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/developeramit14jan/PlacementCell.git"
-  },
-  "author": "Amit Kumar",
+  
+  "author": "Rishi Raj Anand",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/developeramit14jan/PlacementCell/issues"
-  },
-  "homepage": "https://github.com/developeramit14jan/PlacementCell#readme",
+
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.6.0",
