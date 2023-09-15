@@ -1,11 +1,14 @@
 {
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "name": "placement-cell",
   "version": "1.0.0",
   "description": "This is Placement cell application for career camp team",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
